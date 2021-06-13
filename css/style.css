@@ -1,0 +1,71 @@
+.header{
+ 	min-height: 100px;
+ 	background-color: darkblue;
+}
+.container{
+	overflow: hidden;
+	border: 10px solid silver;
+}
+.contact{
+	float:left;
+	width: 70%;
+	min-height: 140px;
+ 	background-color: tomato;
+}
+.blog{
+	float:right;
+	width: 30%;
+	min-height: 140px;
+ 	background-color: darkred;
+}
+.box{
+	overflow: hidden;
+}
+.single{
+	float: left;
+	width: 33.33%;
+	min-height: 140px;
+}
+.pink{
+	background-color: pink;
+}
+.purple{
+	background-color: purple;
+} 
+.violet{
+	background-color: violet;
+}
+.box1{
+	overflow: hidden;
+}
+.images{
+	float: left;
+	width: 30%;
+	min-height: 150px;
+	margin-left: 45px;
+}
+.text {
+  border: 1px solid gray;
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #008CBA;
+}
+.footer{
+ 	min-height: 100px;
+ 	background-color: skyblue;
+}
